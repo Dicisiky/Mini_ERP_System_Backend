@@ -1,0 +1,12 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+.vscode
+
+# Build folders
+/target/
+/out/
+
+# System files
+*.class
+*.log
